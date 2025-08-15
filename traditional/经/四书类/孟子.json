@@ -1,6 +1,6 @@
 {
     "name": "孟子",
-    "author": "战国・孟轲",
+    "author": "漢・趙岐",
     "loadChapterCount": 1,
     "hasZhushu": true,
     "chapters": [
@@ -1037,7 +1037,7 @@
             "name": "公孫丑章句上第三",
             "paragraphs": [
                 {
-                    "paragraph": "公孫丑章句上",
+                    "paragraph": "公孫丑章句上第三",
                     "zhushu": "公孫丑者，公孫，姓；丑，名，孟子弟子也。丑有政事之才，問管、晏之功，猶論語子路問政，故以題篇。",
                     "type": 1
                 },
@@ -1479,7 +1479,7 @@
             "name": "公孫丑章句下第四",
             "paragraphs": [
                 {
-                    "paragraph": "公孫丑章句下第五",
+                    "paragraph": "公孫丑章句下第四",
                     "zhushu": "",
                     "type": 1
                 },
