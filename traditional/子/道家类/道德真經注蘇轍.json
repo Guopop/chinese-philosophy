@@ -1,7 +1,7 @@
 {
     "name": "道德真經注",
     "author": "北宋・蘇轍",
-    "loadChapterCount": 1,
+    "loadChapterCount": 7,
     "hasZhushu": true,
     "chapters": [
         {
@@ -9,7 +9,8 @@
             "paragraphs": [
                 {
                     "paragraph": "道可道章第一",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "道可道，非常道。",
@@ -42,7 +43,8 @@
             "paragraphs": [
                 {
                     "paragraph": "天下皆知章第二",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "天下皆知美之爲美，斯惡矣；皆知善之爲善，斯不善矣。故有無之相生，難易之相成，長短之相形，高下之相傾，聲音之相和，前後之相隨。",
@@ -67,7 +69,8 @@
             "paragraphs": [
                 {
                     "paragraph": "不尚賢章第三",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "不尚賢，使民不爭。不貴難得之貨，使民不爲盜；不見可欲，使心不亂。是以聖人之治也，虚其心，實其腹，弱其志，强其骨。",
@@ -88,7 +91,8 @@
             "paragraphs": [
                 {
                     "paragraph": "道沖章第四",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "道沖而用之，或似不盈。淵兮似萬物之宗。",
@@ -109,7 +113,8 @@
             "paragraphs": [
                 {
                     "paragraph": "天地不仁章第五",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "天地不仁，以萬物爲芻狗。聖人不仁，以百姓爲芻狗。",
@@ -130,7 +135,8 @@
             "paragraphs": [
                 {
                     "paragraph": "谷神不死章第六",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "谷神不死，是謂玄牝。",
@@ -151,7 +157,8 @@
             "paragraphs": [
                 {
                     "paragraph": "天長地乆章第七",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "天長地久。",
@@ -168,7 +175,8 @@
             "paragraphs": [
                 {
                     "paragraph": "上善若水章第八",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "上善若水。水善利萬物而不爭，處衆人之所惡，故幾於道。",
@@ -189,7 +197,8 @@
             "paragraphs": [
                 {
                     "paragraph": "持而盈之章第九",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "持而盈之，不如其已。揣而銳之，不如長保。",
@@ -206,7 +215,8 @@
             "paragraphs": [
                 {
                     "paragraph": "載營魄章第十",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "載營魄抱一，能無離乎？",
@@ -243,7 +253,8 @@
             "paragraphs": [
                 {
                     "paragraph": "三十輻章第十一",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "三十輻共一轂，當其無，有車之用。埏埴以爲器，當其無，有器之用。鑿户牖以爲室，當其無，有室之用。故有之以爲利，無之以爲用。",
@@ -256,7 +267,8 @@
             "paragraphs": [
                 {
                     "paragraph": "五色章第十二",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "五色令人目盲，五音令人耳聾，五味令人口爽。",
@@ -273,7 +285,8 @@
             "paragraphs": [
                 {
                     "paragraph": "寵辱章第十三",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "寵辱若驚，貴大患若身。",
@@ -298,7 +311,8 @@
             "paragraphs": [
                 {
                     "paragraph": "視之不見章第十四",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "視之不見名曰夷，聽之不聞名曰希，搏之不得名曰微。此三者不可致詰，故復混而爲一。",
@@ -331,7 +345,8 @@
             "paragraphs": [
                 {
                     "paragraph": "古之善爲士章第十五",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "古之善爲士者，微妙玄通，深不可識。",
@@ -384,7 +399,8 @@
             "paragraphs": [
                 {
                     "paragraph": "致虚極章第十六",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "致虚極，守靜篤。",
@@ -449,7 +465,8 @@
             "paragraphs": [
                 {
                     "paragraph": "太上章第十七",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "太上，下知有之。",
@@ -478,7 +495,8 @@
             "paragraphs": [
                 {
                     "paragraph": "大道廢章第十八",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "大道廢，有仁義。",
@@ -499,7 +517,8 @@
             "paragraphs": [
                 {
                     "paragraph": "絶聖棄智章第十九",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "絶聖棄智，民利百倍。",
@@ -524,7 +543,8 @@
             "paragraphs": [
                 {
                     "paragraph": "絶學無憂章第二十",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "絶學無憂，",
@@ -581,7 +601,8 @@
             "paragraphs": [
                 {
                     "paragraph": "孔德之容章第二十一",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "孔德之容，惟道是從。",
@@ -614,7 +635,8 @@
             "paragraphs": [
                 {
                     "paragraph": "曲則全章第二十二",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "曲則全，",
@@ -663,7 +685,8 @@
             "paragraphs": [
                 {
                     "paragraph": "希言自然章第二十三",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "希言自然。",
@@ -688,7 +711,8 @@
             "paragraphs": [
                 {
                     "paragraph": "跂者不立章第二十四",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "跂者不立，跨者不行。自見者不明，自是者不彰，自伐者無功，自矜者不長。",
@@ -709,7 +733,8 @@
             "paragraphs": [
                 {
                     "paragraph": "有物混成章第二十五",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "有物混成，先天地生。",
@@ -738,7 +763,8 @@
             "paragraphs": [
                 {
                     "paragraph": "重爲輕根章第二十六",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "重爲輕根，靜爲躁君。",
@@ -763,7 +789,8 @@
             "paragraphs": [
                 {
                     "paragraph": "善行無轍迹章第二十七",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "善行無轍迹，",
@@ -804,7 +831,8 @@
             "paragraphs": [
                 {
                     "paragraph": "知其雄章第二十八",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "知其雄，守其雌，爲天下谿；爲天下谿，常德不離，復歸於嬰兒。知其白，守其黑，爲天下式；爲天下式，常德不忒，復歸於無極。知其榮，守其辱，爲天下谷；爲天下谷，常德乃足，復歸於樸。",
@@ -821,7 +849,8 @@
             "paragraphs": [
                 {
                     "paragraph": "將欲取天下章第二十九",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "將欲取天下而爲之，吾見其不得已。",
@@ -842,7 +871,8 @@
             "paragraphs": [
                 {
                     "paragraph": "以道佐人主章第三十",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "以道佐人主者，不以兵强天下，其事好還。",
@@ -871,7 +901,8 @@
             "paragraphs": [
                 {
                     "paragraph": "夫佳兵章第三十一",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "夫佳兵者，不祥之器，物或惡之，故有道者不處。",
@@ -888,7 +919,8 @@
             "paragraphs": [
                 {
                     "paragraph": "道常無名章第三十二",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "道常無名，樸雖小，天下不敢臣。侯王若能守，萬物將自賔。",
@@ -913,7 +945,8 @@
             "paragraphs": [
                 {
                     "paragraph": "知人者智章第三十三",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "知人者智，自知者明。",
@@ -946,7 +979,8 @@
             "paragraphs": [
                 {
                     "paragraph": "大道汎兮章第三十四",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "大道汎兮，其可左右。",
@@ -967,7 +1001,8 @@
             "paragraphs": [
                 {
                     "paragraph": "執大象章第三十五",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "執大象，天下往。",
@@ -988,7 +1023,8 @@
             "paragraphs": [
                 {
                     "paragraph": "將欲歙之章第三十六",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "將欲歙之，必固張之；將欲弱之，必固强之；將欲廢之，必固興之；將欲奪之，必固與之。是謂微明。",
@@ -1009,7 +1045,8 @@
             "paragraphs": [
                 {
                     "paragraph": "道常無爲章第三十七",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "道常無爲而無不爲，",
@@ -1030,7 +1067,8 @@
             "paragraphs": [
                 {
                     "paragraph": "上德不德章第三十八",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "上德不德，是以有德；下德不失德，是以無德。",
@@ -1067,7 +1105,8 @@
             "paragraphs": [
                 {
                     "paragraph": "昔之得一章第三十九",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "昔之得一者，天得一以清，地得一以寧，神得一以靈，谷得一以盈，萬物得一以生，侯王得一以爲天下貞。",
@@ -1096,7 +1135,8 @@
             "paragraphs": [
                 {
                     "paragraph": "反者道之動章第四十",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "反者道之動，",
@@ -1117,7 +1157,8 @@
             "paragraphs": [
                 {
                     "paragraph": "上士聞道章第四十一",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "上士聞道，勤而行之；中士聞道，若存若亡；下士聞道，大笑之，不笑不足以爲道。",
@@ -1182,7 +1223,8 @@
             "paragraphs": [
                 {
                     "paragraph": "道生一章第四十二",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "道生一，一生二，二生三，三生萬物。萬物負陰而抱陽，沖氣以爲和。",
@@ -1203,7 +1245,8 @@
             "paragraphs": [
                 {
                     "paragraph": "天下之至柔章第四十三",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "天下之至柔，馳騁天下之至堅。無有入於無間，吾是以知無爲之有益。",
@@ -1220,7 +1263,8 @@
             "paragraphs": [
                 {
                     "paragraph": "名與身章第四十四",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "名與身執親，身與貨孰多？",
@@ -1245,7 +1289,8 @@
             "paragraphs": [
                 {
                     "paragraph": "大成若缺章第四十五",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "大成若缺，其用不弊。大盈若沖，其用不窮。",
@@ -1266,7 +1311,8 @@
             "paragraphs": [
                 {
                     "paragraph": "天下有道章第四十六",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "天下有道，却走馬以糞。",
@@ -1287,7 +1333,8 @@
             "paragraphs": [
                 {
                     "paragraph": "不出户章第四十七",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "不出户，知天下；不窺牖，見天道。其出彌遠，其知彌少。",
@@ -1304,7 +1351,8 @@
             "paragraphs": [
                 {
                     "paragraph": "爲學日益章第四十八",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "爲學日益。",
@@ -1329,7 +1377,8 @@
             "paragraphs": [
                 {
                     "paragraph": "聖人無常心章第四十九",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "聖人無常心，以百姓心爲心。善者吾善之，不善者吾亦善之，德善矣。信者吾信之，不信者吾亦信之，德信矣。",
@@ -1346,7 +1395,8 @@
             "paragraphs": [
                 {
                     "paragraph": "岀生入死章第五十",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "出生入死，",
@@ -1371,7 +1421,8 @@
             "paragraphs": [
                 {
                     "paragraph": "道生之章第五十一",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "道生之，德畜之，物形之，勢成之。",
@@ -1396,7 +1447,8 @@
             "paragraphs": [
                 {
                     "paragraph": "天下有始章第五十二",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "天下有始，以爲天下母。",
@@ -1429,7 +1481,8 @@
             "paragraphs": [
                 {
                     "paragraph": "使我介然章第五十三",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "使我介然有知，行於大道，唯施是畏。",
@@ -1450,7 +1503,8 @@
             "paragraphs": [
                 {
                     "paragraph": "善建不拔章第五十四",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "善建者不拔，善抱者不脱，子孫祭祀不輟。",
@@ -1475,7 +1529,8 @@
             "paragraphs": [
                 {
                     "paragraph": "含德之厚章第五十五",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "含德之厚，比於赤子。",
@@ -1516,7 +1571,8 @@
             "paragraphs": [
                 {
                     "paragraph": "知者不言章第五十六",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "知者不言，言者不知。塞其兊，閉其門，挫其銳，解其紛，和其光，同其塵，是謂玄同。",
@@ -1533,7 +1589,8 @@
             "paragraphs": [
                 {
                     "paragraph": "以正治國章第五十七",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "以正治國，以奇用兵，以無事取天下。",
@@ -1566,7 +1623,8 @@
             "paragraphs": [
                 {
                     "paragraph": "其政悶悶章第五十八",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "其政悶悶，其民淳淳。其政察察，其民缺缺。禍兮福所倚，福兮禍所伏。孰知其極？其無正邪？正復爲奇，善復爲妖。民之迷，其日固乆。",
@@ -1583,7 +1641,8 @@
             "paragraphs": [
                 {
                     "paragraph": "治人事天章第五十九",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "治人事天，莫若嗇。夫惟嗇，是謂早服。早服謂之重積德。重積德則無不克，無不克則莫知其極。莫知其極，可以有國。有國之母，可以長久。",
@@ -1600,7 +1659,8 @@
             "paragraphs": [
                 {
                     "paragraph": "治大國章第六十",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "治大國若烹小鮮。",
@@ -1625,7 +1685,8 @@
             "paragraphs": [
                 {
                     "paragraph": "大國者下流章第六十一",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "大國者下流。",
@@ -1654,7 +1715,8 @@
             "paragraphs": [
                 {
                     "paragraph": "道者萬物之奥章第六十二",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "道者，萬物之奥，善人之寳，不善人之所保。美言可以市，尊行可以加人。人之不善，何棄之有？",
@@ -1675,7 +1737,8 @@
             "paragraphs": [
                 {
                     "paragraph": "爲無爲章第六十三",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "爲無爲，事無事，味無味。大小多少，報怨以德。",
@@ -1692,7 +1755,8 @@
             "paragraphs": [
                 {
                     "paragraph": "其安易持章第六十四",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "其安易持，其未兆易謀，其脆易泮，其微易散。爲之於未有，治之於未亂。",
@@ -1717,7 +1781,8 @@
             "paragraphs": [
                 {
                     "paragraph": "古之善爲道者章第六十五",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "古之善爲道者，非以明民，將以愚之。",
@@ -1738,7 +1803,8 @@
             "paragraphs": [
                 {
                     "paragraph": "江海爲百谷王章第六十六",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "江海所以能爲百谷王者，以其善下之，故能爲百谷王。是以聖人欲上人，以其言下之；欲先人，以其身後之。",
@@ -1755,7 +1821,8 @@
             "paragraphs": [
                 {
                     "paragraph": "天下皆謂章第六十七",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "天下皆謂我道大，似不肖。夫唯大，故似不肖。若肖，乆矣其細也夫。",
@@ -1792,7 +1859,8 @@
             "paragraphs": [
                 {
                     "paragraph": "善爲士章第六十八",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "善爲士者不武，",
@@ -1821,7 +1889,8 @@
             "paragraphs": [
                 {
                     "paragraph": "用兵有言章第六十九",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "用兵有言：吾不敢爲主而爲客。",
@@ -1854,7 +1923,8 @@
             "paragraphs": [
                 {
                     "paragraph": "吾言甚易知章第七十",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "吾言甚易知，甚易行。天下莫能知，莫能行。",
@@ -1879,7 +1949,8 @@
             "paragraphs": [
                 {
                     "paragraph": "知不知章第七十一",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "知不知，上；不知知，病。",
@@ -1900,7 +1971,8 @@
             "paragraphs": [
                 {
                     "paragraph": "民不畏威章第七十二",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "民不畏威，則大威至。",
@@ -1921,7 +1993,8 @@
             "paragraphs": [
                 {
                     "paragraph": "勇於敢章第七十三",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "勇於敢則殺，勇於不敢則活。兩者或利或害，天之所惡，孰知其故？是以聖人猶難之。",
@@ -1954,7 +2027,8 @@
             "paragraphs": [
                 {
                     "paragraph": "民不畏死章第七十四",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "民常不畏死，奈何以死懼之？",
@@ -1979,7 +2053,8 @@
             "paragraphs": [
                 {
                     "paragraph": "民之飢章第七十五",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "民之飢，以其上食稅之多，是以飢。民之難治，以其上之有爲，是以難治。",
@@ -2000,7 +2075,8 @@
             "paragraphs": [
                 {
                     "paragraph": "民之生章第七十六",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "民之生也柔弱，其死也堅强。萬物草木生也柔弱，其死也枯槁。故堅强者死之徒，柔弱者生之徒。",
@@ -2025,7 +2101,8 @@
             "paragraphs": [
                 {
                     "paragraph": "天之道章第七十七",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "天之道，其猶張弓乎？",
@@ -2050,7 +2127,8 @@
             "paragraphs": [
                 {
                     "paragraph": "天下柔弱章第七十八",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "天下柔弱莫過於水，而攻堅强者莫之能勝，其無以易之。故柔勝剛，弱勝强，天下莫不知，莫能行。是以聖人言：受國之垢，是謂社稷主；受國不祥，是謂天下王。正言若反。",
@@ -2063,7 +2141,8 @@
             "paragraphs": [
                 {
                     "paragraph": "和大怨章第七十九",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "和大怨，必有餘怨，安可以爲善？",
@@ -2084,7 +2163,8 @@
             "paragraphs": [
                 {
                     "paragraph": "小國寡民章第八十",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "小國寡民，",
@@ -2113,7 +2193,8 @@
             "paragraphs": [
                 {
                     "paragraph": "信言不美章第八十一",
-                    "zhushu": ""
+                    "zhushu": "",
+                    "type": 1
                 },
                 {
                     "paragraph": "信言不美，美言不信。",
@@ -2140,6 +2221,11 @@
         {
             "name": "跋",
             "paragraphs": [
+                {
+                    "paragraph": "跋",
+                    "zhushu": "",
+                    "type": 1
+                },
                 {
                     "paragraph": "予年四十有二，謫居筠州。筠雖小州，而多古禪刹，四方遊僧聚焉。有道全者，住黄糵山，南公之孫也，行高而心通，喜從予遊。嘗與予談道，予告之曰：子所談者，予於儒書已得之矣。全曰：此佛法也，儒者何自得之？予曰：不然。予忝聞道，儒者之所無，何若强以誣之？顧誠有之而世莫知耳。儒佛之不相通，如胡漢之不相諳也，子亦何由知之？全曰：試爲我言其略。予曰：孔子之孫子思，子思之書曰中庸，中庸之言曰：喜怒哀樂之未發謂之中，發而皆中節謂之和。中也者，天下之大本也；和也者，天下之達道也。致中和，天地位焉，萬物育焉。此非佛法而何？顧所從言之異耳。全曰：何以言之？予曰：六祖有言：不思善，不思惡。方是時也，孰是汝本來面目？自六祖以來，人以此言悟入者太半矣。所謂不思善，不思惡，則喜怒哀樂之未發也。蓋中者，佛性之異名；而和者，六度萬行之總目也。致中極和，而天地萬物生於其間，此非佛法，何以當之？全驚喜曰：吾初不知也，今而後始知儒佛一法也。予笑曰：不然。天下固無二道，而所以治人則異。君臣父子之間，非禮法則亂。知禮法而不知道，則世之俗儒不足貴也。居山林，木食澗飲，而心存至道，雖爲人天師可也，而以之治世則亂。古之聖人，中心行道而不毁世法，然後可耳。全作禮曰：此至論也。是時予方解老子，每出一章，輒以示全。全輒歎曰：皆佛說也。予居筠五年而北歸，全不乆亦化去，逮今二十餘年矣。凡老子解亦時有所刊定，未有不與佛法合者。時人無可與語，思復見全而示之，故書之老子之末。大觀二年十二月十日，子由題。",
                     "zhushu": ""
