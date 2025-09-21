@@ -1,0 +1,22 @@
+{
+    "name": "道德经",
+    "author": "西汉・河上公",
+    "loadChapterCount": 5,
+    "hasZhushu": true,
+    "chapters": [
+        {
+            "name": "体道第一",
+            "paragraphs": [
+                {
+                    "paragraph": "体道第一",
+                    "zhushu": "",
+                    "type": 1
+                },
+                {
+                    "paragraph": "道可道，",
+                    "zhushu": "谓经术政教之道也。"
+                }
+            ]
+        }
+    ]
+}
