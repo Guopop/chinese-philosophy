@@ -1,7 +1,7 @@
 {
     "name": "論語",
     "author": "三国・何晏",
-    "loadChapterCount": 3,
+    "loadChapterCount": 5,
     "chapters": [
         {
             "name": "論語序",
