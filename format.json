@@ -2,7 +2,6 @@
     "name": "道德经",
     "author": "西汉・河上公",
     "loadChapterCount": 5,
-    "hasZhushu": true,
     "chapters": [
         {
             "name": "体道第一",
